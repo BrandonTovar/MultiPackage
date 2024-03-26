@@ -1,6 +1,0 @@
-C:\Users\ASAEL\Desktop\Proyectos\MULSQLite\MULSQLite\bin\Debug\MulPackage.dll.config
-C:\Users\ASAEL\Desktop\Proyectos\MULSQLite\MULSQLite\bin\Debug\MulPackage.dll
-C:\Users\ASAEL\Desktop\Proyectos\MULSQLite\MULSQLite\bin\Debug\MulPackage.pdb
-C:\Users\ASAEL\Desktop\Proyectos\MULSQLite\MULSQLite\obj\Debug\MulPackage.csprojResolveAssemblyReference.cache
-C:\Users\ASAEL\Desktop\Proyectos\MULSQLite\MULSQLite\obj\Debug\MulPackage.dll
-C:\Users\ASAEL\Desktop\Proyectos\MULSQLite\MULSQLite\obj\Debug\MulPackage.pdb

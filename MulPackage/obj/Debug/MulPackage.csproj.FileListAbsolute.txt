@@ -10,3 +10,13 @@ C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MULSQLite\bin\Debug\MulPackage.pdb
 C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MULSQLite\obj\Debug\MulPackage.csprojResolveAssemblyReference.cache
 C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MULSQLite\obj\Debug\MulPackage.dll
 C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MULSQLite\obj\Debug\MulPackage.pdb
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\MulPackage.dll.config
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\MulPackage.dll
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\MulPackage.pdb
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\bin\Debug\stdole.dll
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\obj\Debug\MulPackage.csprojResolveAssemblyReference.cache
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\obj\Debug\MulPackage.dll
+C:\Users\ASAEL\Desktop\Proyectos\MulPackage\MulPackage\obj\Debug\MulPackage.pdb
